@@ -1,5 +1,9 @@
 <h1><u>Traditional Chinese Landscape Painting Dataset </u></h1>
 
+my note:
+实现技术：可以自己搜索相关框架:
+https://github.com/djsiroky/sketchGAN
+https://mp.weixin.qq.com/s/poYSjuuyf3hJ78nq3HtKVg
 
 <b>Paper Title</b>: "End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks"\
 <b>ArXiv:</b> https://arxiv.org/abs/2011.05552 \
